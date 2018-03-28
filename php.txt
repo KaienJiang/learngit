@@ -1,0 +1,7 @@
+git -> sourcetreee
+
+php -> composer -> packgist -> thinkphp install
+
+
+
+
